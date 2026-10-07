@@ -1,0 +1,11 @@
+# Dataset and Models
+data/
+models/
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+env/
+.idea/
+.vscode/
